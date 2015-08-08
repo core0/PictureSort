@@ -1,0 +1,8 @@
+D:\coding\csharp\PictureSort\PictureSort\bin\Release\PictureSort.exe
+D:\coding\csharp\PictureSort\PictureSort\bin\Release\PictureSort.pdb
+D:\coding\csharp\PictureSort\PictureSort\obj\Release\ResolveAssemblyReference.cache
+D:\coding\csharp\PictureSort\PictureSort\obj\Release\PictureSort.Form1.resources
+D:\coding\csharp\PictureSort\PictureSort\obj\Release\PictureSort.Properties.Resources.resources
+D:\coding\csharp\PictureSort\PictureSort\obj\Release\PictureSort.csproj.GenerateResource.Cache
+D:\coding\csharp\PictureSort\PictureSort\obj\Release\PictureSort.exe
+D:\coding\csharp\PictureSort\PictureSort\obj\Release\PictureSort.pdb
